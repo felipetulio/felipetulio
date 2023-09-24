@@ -1,8 +1,8 @@
 ### Olá, seja bem-vindo(a)!
 
-Meu nome é Felipe Túlio. Cresci em meio a consoles de 8, 16 e 32-bits, animes, mangás e brincadeiras de ruas para me tornar professor no Instituto Federal do Norte de Minas Gerais, palestrante e dev (em fase de recomeço após longo afastamento). Acredito que a educação é uma grande aventura (pena que a maior parte das pessoas não veja isso).
+Meu nome é Felipe Túlio. Cresci em meio a consoles de 8, 16 e 32-bits, animes, mangás e brincadeiras de ruas para me tornar professor no Instituto Federal do Norte de Minas Gerais, palestrante e programador (em fase de readaptação à área após longo afastamento). Acredito que a educação é uma grande aventura. Pena que a maior parte das pessoas não veja isso.
   
-Aceito contribuições sinceras e construtivas. Você pode me encontrar nos contatos abaixo. De antemão, deixo minha gratidão pelo seu contato! 
+Aceito contribuições sinceras e construtivas. Você pode me encontrar nos contatos abaixo. De antemão, agradeço pelo seu contato! 
 <div>
 <a href = "mailto:felipe.castro@ifnmg.edu.br"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/ftdcastro" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
