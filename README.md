@@ -1,8 +1,10 @@
+_Educação é uma grande aventura_
+
 ### Olá, seja bem-vindo(a)!
 
-Meu nome é Felipe Túlio. Cresci em meio a games, animes e mangás para me tornar professor no Instituto Federal do Norte de Minas Gerais, palestrante e programador (em fase de readaptação à área após longo afastamento). Acredito que a educação é uma grande aventura.
-  
-Aceito contribuições sinceras e construtivas. Você pode me encontrar nos contatos abaixo. De antemão, agradeço pelo seu contato! 
+Eu sou Felipe Túlio. Sou professor há 11 anos, palestrante e programador em fase de readaptação. Estou aberto a contribuições sinceras e construtivas. Então, vamos trocar uma ideia?
+
+Você pode me encontrar nos contatos abaixo. De antemão, agradeço pelo seu contato! 
 <div>
 <a href = "mailto:felipe.castro@ifnmg.edu.br"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/ftdcastro" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
